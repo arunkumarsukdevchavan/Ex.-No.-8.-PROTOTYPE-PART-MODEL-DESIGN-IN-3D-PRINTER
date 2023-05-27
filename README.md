@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![output](https://user-images.githubusercontent.com/118707073/241130336-c391bc60-2943-4fb4-9f11-98690fa3196a.png)
 
-### Name:
-### Register Number:
+### Name: ARUN KUMAR SUKDEV CHAVAN
+### Register Number:  212222230013
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+ Thus a prototype of the given part model is developed using 3D Printer.
