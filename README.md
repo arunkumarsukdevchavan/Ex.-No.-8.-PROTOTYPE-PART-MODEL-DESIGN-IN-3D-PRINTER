@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![output](https://user-images.githubusercontent.com/118707073/241130336-c391bc60-2943-4fb4-9f11-98690fa3196a.png)
+![WhatsApp Image 2023-05-30 at 10 26 32](https://github.com/arunkumarsukdevchavan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118343978/4a4fe68c-2005-46b2-8928-f8dd82c6b464)
+
 
 ### Name: ARUN KUMAR SUKDEV CHAVAN
 ### Register Number:  212222230013
